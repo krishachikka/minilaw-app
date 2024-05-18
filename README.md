@@ -2,7 +2,10 @@
 
 A flutter project- An Educational Gaming App
 <br>
-https://github.com/krishachikka/minilaw-app/assets/147174716/1f12cc8a-6daa-4993-ac77-ece01b96a9e8
+
+
+https://github.com/krishachikka/minilaw-app/assets/147174716/6bb47242-c247-465a-bcc2-ae22b20a97b9
+
 
 ## Getting Started
 
