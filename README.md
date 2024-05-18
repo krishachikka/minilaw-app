@@ -2,6 +2,7 @@
 
 A flutter project- An Educational Gaming App
 <br>
+[Watch the demo video](./minilaw.mp4)
 https://github.com/krishachikka/minilaw-app/blob/3bb547df663ded8c7573b5ad40f08e60ccb8ef8f/minilaw.mp4
 ## Getting Started
 
