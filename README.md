@@ -1,10 +1,16 @@
-# Minilaw
-https://github.com/krishachikka/Minilaw/assets/147174716/5f10e6c7-9af8-414d-b36f-e55db2785fcd
+# minilaw
 
+A flutter project- An Educational Gaming App
 
-https://github.com/krishachikka/Minilaw/assets/147174716/2e72e490-ea03-4337-b372-564d206d68ce
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-https://github.com/krishachikka/Minilaw/assets/147174716/dabf5f32-8834-4952-ba2e-298362103d08
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
