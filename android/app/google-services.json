@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543252902851",
+    "project_id": "minilaw-2088a",
+    "storage_bucket": "minilaw-2088a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543252902851:android:ff4fb92cd6b11944eec376",
+        "android_client_info": {
+          "package_name": "com.krisha.minilaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo2H384IIjcgIAYdeoOmtJXliVul1Qm90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
