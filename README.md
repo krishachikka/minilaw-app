@@ -1,6 +1,6 @@
 # minilaw
 
-<b> A flutter project- An Educational Gaming App </b>
+### A flutter project- An Educational Gaming App
 <br>
 Gamifying educational learning of basic rights and laws for children.
 <br>
