@@ -2,7 +2,8 @@
 
 A flutter project- An Educational Gaming App
 <br>
-<img src="./minilaw.mp4">
+https://github.com/krishachikka/minilaw-app/assets/147174716/1f12cc8a-6daa-4993-ac77-ece01b96a9e8
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
