@@ -2,10 +2,7 @@
 
 A flutter project- An Educational Gaming App
 <br>
-<video width="640" height="480" controls>
-  <source src="./minilaw.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./minilaw.mp4">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
