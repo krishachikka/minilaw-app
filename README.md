@@ -1,6 +1,6 @@
 # minilaw
 
-A new Flutter project.
+A flutter project- An Educational Gaming App
 
 ## Getting Started
 
@@ -14,9 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-Future<userModel> fetchuserDetails(String email) async{
-final snapshot = await _firestore.collection("Users").where("Email" , isEqualTo: email).get();
-final userData = snapshot.docs.map((e)=> userModel.fromSnapshot(e)).single;
-return userData;
-}
